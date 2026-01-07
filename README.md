@@ -12,8 +12,8 @@ If you care, my pronouns are He/Him but I truly don't care what you use as long 
 
 ## Things that I have helped/worked on:
 ### The Enhanced Network:
-- [TOHE Documentation Website](https://tohe.weareten.ca) (Prior Website Maintainer) [GitHub](https://github.com/EnhancedNetwork/TOHE-Docs)
-- [Town of Host: Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) (Sloth Add-On; TagManager Tweaks; Small Text Updates)
+- (Previous) [TOHE Documentation Website](https://tohe.weareten.ca) (Website Maintainer) [GitHub](https://github.com/EnhancedNetwork/TOHE-Docs)
+- (Previous) [Town of Host: Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) (Sloth Add-On; TagManager Tweaks; Small Text Updates)
 
 
 ![My GitHub Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=notpyro404&show_icons=true&theme=tokyonight)
