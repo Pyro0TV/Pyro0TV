@@ -7,9 +7,6 @@ I have lost interest in coding as a hobby at this point in time. Maybe I'll come
 
 If you care, my pronouns are He/Him but I truly don't care what you use as long as I know you are referring to me.
 
-### If you want to learn a little bit more about me:
-- [Visit Here](https://sites.google.com/view/notpyro404)!
-
 ## Things that I have helped/worked on:
 ### The Enhanced Network:
 - (Previous) [TOHE Documentation Website](https://tohe.weareten.ca) (Website Maintainer) [GitHub](https://github.com/EnhancedNetwork/TOHE-Docs)
