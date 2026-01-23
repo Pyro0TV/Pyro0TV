@@ -13,4 +13,4 @@ If you care, my pronouns are He/Him but I truly don't care what you use as long 
 - (Previous) [Town of Host: Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) (Sloth Add-On; TagManager Tweaks; Small Text Updates)
 
 
-![My GitHub Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=notpyro404&show_icons=true&theme=tokyonight)
+![My GitHub Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=pyrosliced&show_icons=true&theme=tokyonight)
